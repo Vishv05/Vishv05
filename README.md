@@ -1,6 +1,6 @@
 # Hi, I'm Vishv 👋
 
-## 📊 Data Analyst | Turning Data into Insights
+## 📊 MSc.IT Student | Aspiring Data Analyst | Turning Data into Insights
 
 I am a data-driven individual with a strong interest in analyzing complex datasets and transforming them into meaningful insights. I focus on data cleaning, exploration, and visualization to support better decision-making. I enjoy solving real-world problems using data and continuously improving my analytical and technical skills.
 
