@@ -1,0 +1,134 @@
+<svg width="900" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="900" height="70" rx="12"/>
+    </clipPath>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="4%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="96%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#clip)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0 0" to="-1832.0 0" dur="26s" repeatCount="indefinite"/>
+      
+    <g>
+      <rect x="0.0" y="13.0" width="103.5" height="44" rx="22.0" fill="#3776AB" opacity="0.15" stroke="#3776AB" stroke-width="1.5"/>
+      <text x="51.8" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#3776AB" text-anchor="middle">Python</text>
+    </g>
+    <g>
+      <rect x="119.5" y="13.0" width="73.8" height="44" rx="22.0" fill="#025E8C" opacity="0.15" stroke="#025E8C" stroke-width="1.5"/>
+      <text x="156.4" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#025E8C" text-anchor="middle">SQL</text>
+    </g>
+    <g>
+      <rect x="209.3" y="13.0" width="103.5" height="44" rx="22.0" fill="#150458" opacity="0.15" stroke="#150458" stroke-width="1.5"/>
+      <text x="261.0" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#150458" text-anchor="middle">Pandas</text>
+    </g>
+    <g>
+      <rect x="328.8" y="13.0" width="93.6" height="44" rx="22.0" fill="#013243" opacity="0.15" stroke="#013243" stroke-width="1.5"/>
+      <text x="375.6" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#013243" text-anchor="middle">NumPy</text>
+    </g>
+    <g>
+      <rect x="438.4" y="13.0" width="123.4" height="44" rx="22.0" fill="#F2C811" opacity="0.15" stroke="#F2C811" stroke-width="1.5"/>
+      <text x="500.1" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#F2C811" text-anchor="middle">Power BI</text>
+    </g>
+    <g>
+      <rect x="577.8" y="13.0" width="113.4" height="44" rx="22.0" fill="#E97627" opacity="0.15" stroke="#E97627" stroke-width="1.5"/>
+      <text x="634.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#E97627" text-anchor="middle">Tableau</text>
+    </g>
+    <g>
+      <rect x="707.2" y="13.0" width="103.5" height="44" rx="22.0" fill="#092E20" opacity="0.15" stroke="#092E20" stroke-width="1.5"/>
+      <text x="759.0" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#092E20" text-anchor="middle">Django</text>
+    </g>
+    <g>
+      <rect x="826.7" y="13.0" width="93.6" height="44" rx="22.0" fill="#000000" opacity="0.15" stroke="#000000" stroke-width="1.5"/>
+      <text x="873.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#000000" text-anchor="middle">Flask</text>
+    </g>
+    <g>
+      <rect x="936.3" y="13.0" width="93.6" height="44" rx="22.0" fill="#61DAFB" opacity="0.15" stroke="#61DAFB" stroke-width="1.5"/>
+      <text x="983.1" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#61DAFB" text-anchor="middle">React</text>
+    </g>
+    <g>
+      <rect x="1045.9" y="13.0" width="143.2" height="44" rx="22.0" fill="#F7DF1E" opacity="0.15" stroke="#F7DF1E" stroke-width="1.5"/>
+      <text x="1117.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#F7DF1E" text-anchor="middle">JavaScript</text>
+    </g>
+    <g>
+      <rect x="1205.1" y="13.0" width="163.0" height="44" rx="22.0" fill="#4285F4" opacity="0.15" stroke="#4285F4" stroke-width="1.5"/>
+      <text x="1286.6" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#4285F4" text-anchor="middle">Google Cloud</text>
+    </g>
+    <g>
+      <rect x="1384.2" y="13.0" width="123.4" height="44" rx="22.0" fill="#669DF6" opacity="0.15" stroke="#669DF6" stroke-width="1.5"/>
+      <text x="1445.8" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#669DF6" text-anchor="middle">BigQuery</text>
+    </g>
+    <g>
+      <rect x="1523.5" y="13.0" width="113.4" height="44" rx="22.0" fill="#47A248" opacity="0.15" stroke="#47A248" stroke-width="1.5"/>
+      <text x="1580.2" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#47A248" text-anchor="middle">MongoDB</text>
+    </g>
+    <g>
+      <rect x="1653.0" y="13.0" width="163.0" height="44" rx="22.0" fill="#8A2BE2" opacity="0.15" stroke="#8A2BE2" stroke-width="1.5"/>
+      <text x="1734.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#8A2BE2" text-anchor="middle">GenAI / LLMs</text>
+    </g>
+      
+    <g>
+      <rect x="1832.0" y="13.0" width="103.5" height="44" rx="22.0" fill="#3776AB" opacity="0.15" stroke="#3776AB" stroke-width="1.5"/>
+      <text x="1883.8" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#3776AB" text-anchor="middle">Python</text>
+    </g>
+    <g>
+      <rect x="1951.5" y="13.0" width="73.8" height="44" rx="22.0" fill="#025E8C" opacity="0.15" stroke="#025E8C" stroke-width="1.5"/>
+      <text x="1988.4" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#025E8C" text-anchor="middle">SQL</text>
+    </g>
+    <g>
+      <rect x="2041.3" y="13.0" width="103.5" height="44" rx="22.0" fill="#150458" opacity="0.15" stroke="#150458" stroke-width="1.5"/>
+      <text x="2093.0" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#150458" text-anchor="middle">Pandas</text>
+    </g>
+    <g>
+      <rect x="2160.8" y="13.0" width="93.6" height="44" rx="22.0" fill="#013243" opacity="0.15" stroke="#013243" stroke-width="1.5"/>
+      <text x="2207.6" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#013243" text-anchor="middle">NumPy</text>
+    </g>
+    <g>
+      <rect x="2270.4" y="13.0" width="123.4" height="44" rx="22.0" fill="#F2C811" opacity="0.15" stroke="#F2C811" stroke-width="1.5"/>
+      <text x="2332.1" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#F2C811" text-anchor="middle">Power BI</text>
+    </g>
+    <g>
+      <rect x="2409.8" y="13.0" width="113.4" height="44" rx="22.0" fill="#E97627" opacity="0.15" stroke="#E97627" stroke-width="1.5"/>
+      <text x="2466.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#E97627" text-anchor="middle">Tableau</text>
+    </g>
+    <g>
+      <rect x="2539.2" y="13.0" width="103.5" height="44" rx="22.0" fill="#092E20" opacity="0.15" stroke="#092E20" stroke-width="1.5"/>
+      <text x="2591.0" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#092E20" text-anchor="middle">Django</text>
+    </g>
+    <g>
+      <rect x="2658.7" y="13.0" width="93.6" height="44" rx="22.0" fill="#000000" opacity="0.15" stroke="#000000" stroke-width="1.5"/>
+      <text x="2705.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#000000" text-anchor="middle">Flask</text>
+    </g>
+    <g>
+      <rect x="2768.3" y="13.0" width="93.6" height="44" rx="22.0" fill="#61DAFB" opacity="0.15" stroke="#61DAFB" stroke-width="1.5"/>
+      <text x="2815.1" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#61DAFB" text-anchor="middle">React</text>
+    </g>
+    <g>
+      <rect x="2877.9" y="13.0" width="143.2" height="44" rx="22.0" fill="#F7DF1E" opacity="0.15" stroke="#F7DF1E" stroke-width="1.5"/>
+      <text x="2949.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#F7DF1E" text-anchor="middle">JavaScript</text>
+    </g>
+    <g>
+      <rect x="3037.1" y="13.0" width="163.0" height="44" rx="22.0" fill="#4285F4" opacity="0.15" stroke="#4285F4" stroke-width="1.5"/>
+      <text x="3118.6" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#4285F4" text-anchor="middle">Google Cloud</text>
+    </g>
+    <g>
+      <rect x="3216.2" y="13.0" width="123.4" height="44" rx="22.0" fill="#669DF6" opacity="0.15" stroke="#669DF6" stroke-width="1.5"/>
+      <text x="3277.8" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#669DF6" text-anchor="middle">BigQuery</text>
+    </g>
+    <g>
+      <rect x="3355.5" y="13.0" width="113.4" height="44" rx="22.0" fill="#47A248" opacity="0.15" stroke="#47A248" stroke-width="1.5"/>
+      <text x="3412.2" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#47A248" text-anchor="middle">MongoDB</text>
+    </g>
+    <g>
+      <rect x="3485.0" y="13.0" width="163.0" height="44" rx="22.0" fill="#8A2BE2" opacity="0.15" stroke="#8A2BE2" stroke-width="1.5"/>
+      <text x="3566.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#8A2BE2" text-anchor="middle">GenAI / LLMs</text>
+    </g>
+    </g>
+  </g>
+  <rect x="0" y="0" width="900" height="70" fill="url(#fade)" pointer-events="none"/>
+</svg>
