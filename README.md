@@ -211,22 +211,304 @@ MongoDB          █████████░░░░░░░░░  NoSQL &
 
 ## 🏆 Certifications & Achievements
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vishv05/Vishv05/main/assets/cert_carousel.svg" alt="Scrolling certifications carousel" width="100%" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Certifications — Vishv Bhavsar</title>
+<style>
+  :root {
+    --bg: #f4f1ea;
+    --surface: #ffffff;
+    --text-primary: #1c1b18;
+    --text-secondary: #5f5e58;
+    --border: rgba(28,27,24,0.12);
+    --accent: #4285F4;
+  }
+  [data-theme="dark"] {
+    --bg: #0d0d0c;
+    --surface: #171614;
+    --text-primary: #f2f1ec;
+    --text-secondary: #a6a49c;
+    --border: rgba(242,241,236,0.12);
+    --accent: #8dbdff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text-primary);
+    font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+    min-height: 100vh;
+    transition: background 0.3s ease, color 0.3s ease;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 28px 32px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+  h1 span { color: var(--text-secondary); font-weight: 400; }
+  #theme-toggle {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+    border-radius: 999px;
+    padding: 8px 16px;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  #theme-toggle:hover { border-color: var(--accent); }
 
-- 🟣 **Tata GenAI Powered Data Analytics** — Forage
-- 🟠 **Oracle Cloud Infrastructure 2025 Generative AI Professional**
-- 🔵 **Microsoft Data Analyst Certificate**
-- 🟢 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-- 🔷 **Google Gen AI Exchange Program** — Google & Hack2Skill
-- 🟡 **Data Analytics Virtual Internship** — Deloitte / Forage
-- 🎨 **Innovation Through Design: Think, Make, Break, Repeat** — University of Sydney
-- ☁️ Qualified for **Google Cloud Arcade Novice Tier**
-- 🏅 Completed **36+ Google Cloud Skill Badges** across AI/ML, Data, Infrastructure, and GenAI
-- 🏆 **3× Winner — Logo Design Competition**, Cyber Shadez Events, GLS University
-- 🌐 Built and deployed a personal portfolio website
+  .scroll-wrap {
+    max-width: 1100px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+  .stage {
+    position: relative;
+    height: 420px;
+    width: 100%;
+    min-width: 720px;
+  }
+  .hint {
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 13px;
+    margin-top: 4px;
+  }
+  .badge {
+    position: absolute;
+    width: 150px;
+    height: 106px;
+    border-radius: 10px;
+    cursor: pointer;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    overflow: hidden;
+    transform: translate(-50%, -50%) scale(1);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+  }
+  .badge:hover {
+    transform: translate(-50%, -50%) scale(1.08);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.2);
+    z-index: 2;
+  }
+  .badge img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .badge .caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(0,0,0,0.72));
+    color: #fff;
+    font-size: 10.5px;
+    font-weight: 600;
+    padding: 14px 8px 6px;
+    text-align: center;
+    line-height: 1.25;
+  }
 
+  .overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+  }
+  .overlay.open { display: flex; opacity: 1; }
+  .modal {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    width: min(560px, 90vw);
+    max-height: 86vh;
+    overflow-y: auto;
+    padding: 0;
+    text-align: center;
+    transform: scale(0.94);
+    transition: transform 0.2s ease;
+  }
+  .overlay.open .modal { transform: scale(1); }
+  .modal img.cert-full {
+    width: 100%;
+    display: block;
+    border-radius: 16px 16px 0 0;
+  }
+  .modal .modal-body { padding: 20px 24px 24px; }
+  .modal h2 {
+    font-size: 16px;
+    margin: 0 0 4px;
+    font-weight: 600;
+  }
+  .modal .issuer {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-bottom: 16px;
+  }
+  .modal .desc {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 18px;
+  }
+  .modal button {
+    background: var(--text-primary);
+    color: var(--bg);
+    border: none;
+    border-radius: 999px;
+    padding: 9px 22px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .modal button:hover { opacity: 0.85; }
+
+  footer {
+    text-align: center;
+    padding: 24px;
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+  footer a { color: var(--accent); text-decoration: none; }
+
+  @media (max-width: 640px) {
+    header { flex-wrap: wrap; gap: 10px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Certifications <span>&mdash; Vishv Bhavsar</span></h1>
+  <button id="theme-toggle" onclick="toggleTheme()">Dark mode</button>
+</header>
+
+<div class="scroll-wrap">
+  <div class="stage" id="stage"></div>
+</div>
+<p class="hint">Scroll to browse &middot; tap any badge to see details</p>
+
+<div class="overlay" id="overlay" onclick="closeOnBackdrop(event)">
+  <div class="modal" id="modal">
+    <img class="cert-full" id="modal-img" src="" alt="" />
+    <div class="modal-body">
+      <h2 id="modal-name"></h2>
+      <div class="issuer" id="modal-issuer"></div>
+      <div class="desc" id="modal-desc"></div>
+      <button onclick="closeModal()">Close</button>
+    </div>
+  </div>
+</div>
+
+<footer>
+  Part of <a href="https://vishv05.github.io/">Vishv Bhavsar's portfolio</a>
+</footer>
+
+<script>
+const certs = [
+  { name: "GenAI Powered Data Analytics", issuer: "Tata / Forage", date: "Feb 4, 2026", img: "assets/certs/Tata_1.jpg", desc: "Job simulation covering exploratory data analysis, delinquency prediction, and AI-driven collections strategy." },
+  { name: "Data Visualisation: Empowering Business", issuer: "Tata / Forage", date: "Dec 18, 2025", img: "assets/certs/Tata_2.jpg", desc: "Job simulation on choosing the right visuals and communicating business insights effectively." },
+  { name: "OCI Certified Generative AI Professional", issuer: "Oracle University", date: "Sep 16, 2025", img: "assets/certs/Oracle_1.jpg", desc: "Oracle Cloud Infrastructure 2025 certification in generative AI professional skills." },
+  { name: "OCI Certified AI Foundations Associate", issuer: "Oracle University", date: "Aug 15, 2025", img: "assets/certs/Oracle_2.jpg", desc: "Oracle Cloud Infrastructure 2025 certification in foundational AI concepts." },
+  { name: "Data Analytics Job Simulation", issuer: "Deloitte / Forage", date: "Apr 21, 2025", img: "assets/certs/Deloitte.jpg", desc: "Job simulation covering data analysis and forensic technology tasks." },
+  { name: "Introduction to Data Science", issuer: "Cisco Networking Academy", date: "Dec 24, 2025", img: "assets/certs/Cisco.jpg", desc: "Student-level credential covering data analytics, and the role of data in AI and machine learning." },
+  { name: "Google Cloud Data Analytics", issuer: "Google Cloud", date: "", img: "assets/certs/Google_1.jpg", desc: "Skill certificate recognizing applied Google Cloud data analytics skills." },
+  { name: "Build Real World AI Apps with Gemini & Imagen", issuer: "Google Cloud", date: "", img: "assets/certs/Google_2.jpg", desc: "Introductory skill badge for building AI applications using Gemini and Imagen." },
+];
+
+const stage = document.getElementById('stage');
+
+function layout() {
+  stage.innerHTML = '';
+  const w = Math.max(stage.clientWidth, 720);
+  const h = stage.clientHeight;
+  const n = certs.length;
+
+  const arcSpanDeg = 150;
+  const halfSpanRad = (arcSpanDeg / 2) * Math.PI / 180;
+  const radius = Math.min(w * 0.62, 480, (w - 170) / 2 / Math.sin(halfSpanRad));
+
+  const startDeg = 270 - arcSpanDeg / 2;
+  const endDeg = 270 + arcSpanDeg / 2;
+  const centerX = w / 2;
+  const centerY = radius + 40;
+
+  certs.forEach((c, i) => {
+    const t = n === 1 ? 0.5 : i / (n - 1);
+    const deg = startDeg + t * (endDeg - startDeg);
+    const rad = deg * Math.PI / 180;
+    const x = centerX + radius * Math.cos(rad);
+    const y = centerY + radius * Math.sin(rad);
+
+    const badge = document.createElement('div');
+    badge.className = 'badge';
+    badge.style.left = x + 'px';
+    badge.style.top = y + 'px';
+    badge.innerHTML = `<img src="${c.img}" alt="${c.name}" /><div class="caption">${c.name.split(' ').slice(0,4).join(' ')}</div>`;
+    badge.onclick = () => openModal(c);
+    stage.appendChild(badge);
+  });
+}
+
+function openModal(c) {
+  document.getElementById('modal-img').src = c.img;
+  document.getElementById('modal-img').alt = c.name;
+  document.getElementById('modal-name').textContent = c.name;
+  document.getElementById('modal-issuer').textContent = 'Issued by ' + c.issuer + (c.date ? ' · ' + c.date : '');
+  document.getElementById('modal-desc').textContent = c.desc;
+  document.getElementById('overlay').classList.add('open');
+}
+function closeModal() {
+  document.getElementById('overlay').classList.remove('open');
+}
+function closeOnBackdrop(e) {
+  if (e.target.id === 'overlay') closeModal();
+}
+function toggleTheme() {
+  const root = document.documentElement;
+  const isDark = root.getAttribute('data-theme') === 'dark';
+  root.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  document.getElementById('theme-toggle').textContent = isDark ? 'Dark mode' : 'Light mode';
+  localStorage.setItem('cert-theme', isDark ? 'light' : 'dark');
+}
+
+const savedTheme = (() => { try { return localStorage.getItem('cert-theme'); } catch(e) { return null; } })();
+const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+  document.documentElement.setAttribute('data-theme', 'dark');
+  document.getElementById('theme-toggle').textContent = 'Light mode';
+}
+
+layout();
+window.addEventListener('resize', layout);
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeModal(); });
+</script>
+
+</body>
+</html>
 ---
 
 ## 🎓 Education
