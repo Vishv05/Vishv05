@@ -258,10 +258,39 @@ GLS University · Jun 2022 – Apr 2025
 
 ## 🐍 My Contribution Journey
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vishv05/Vishv05/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Vishv05
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 ## 🌱 Building in Public
