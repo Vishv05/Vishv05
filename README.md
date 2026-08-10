@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4285F4&height=180&section=header&text=Vishv%20Bhavsar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Tech%20Enthusiast%20%E2%80%A2%20Builder%20%E2%80%A2%20Explorer&descAlignY=58&descSize=18" alt="Animated header banner" width="100%" />
+
 # 👋 Hi, I'm Vishv Bhavsar
 
 ### 🎨 Creative Tech Enthusiast • 🎓 MSc IT Student • 💻 Builder • 🧪 Explorer
@@ -49,6 +51,10 @@ I enjoy moving from an idea to something practical — whether that's a dashboar
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishv05/Vishv05/main/assets/tech_carousel.svg" alt="Scrolling tech stack carousel" width="100%" />
+</p>
 
 ### Languages & Data
 
@@ -205,6 +211,10 @@ MongoDB          █████████░░░░░░░░░  NoSQL &
 
 ## 🏆 Certifications & Achievements
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishv05/Vishv05/main/assets/cert_carousel.svg" alt="Scrolling certifications carousel" width="100%" />
+</p>
+
 - 🟣 **Tata GenAI Powered Data Analytics** — Forage
 - 🟠 **Oracle Cloud Infrastructure 2025 Generative AI Professional**
 - 🔵 **Microsoft Data Analyst Certificate**
@@ -230,6 +240,10 @@ GLS University · Jun 2022 – Apr 2025
 ---
 
 ## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishv05&theme=react-dark&hide_border=true&area=true" alt="Animated commit activity graph" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishv05&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics" />
@@ -302,5 +316,7 @@ So I'm continuously using GitHub to document projects, experiments, learning exe
 <div align="center">
 
 ### 🚀 Learn • Build • Experiment • Grow
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:8A2BE2&height=120&section=footer" alt="Animated footer banner" width="100%" />
 
 </div>
