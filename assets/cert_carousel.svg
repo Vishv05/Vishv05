@@ -1,0 +1,94 @@
+<svg width="900" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="900" height="70" rx="12"/>
+    </clipPath>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="4%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="96%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#clip)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0 0" to="-2662.9 0" dur="30s" repeatCount="indefinite"/>
+      
+    <g>
+      <rect x="0.0" y="13.0" width="292.0" height="44" rx="22.0" fill="#8E44AD" opacity="0.15" stroke="#8E44AD" stroke-width="1.5"/>
+      <text x="146.0" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#8E44AD" text-anchor="middle">Tata GenAI Data Analytics</text>
+    </g>
+    <g>
+      <rect x="308.0" y="13.0" width="262.2" height="44" rx="22.0" fill="#F5820D" opacity="0.15" stroke="#F5820D" stroke-width="1.5"/>
+      <text x="439.1" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#F5820D" text-anchor="middle">OCI GenAI Professional</text>
+    </g>
+    <g>
+      <rect x="586.2" y="13.0" width="262.2" height="44" rx="22.0" fill="#0078D4" opacity="0.15" stroke="#0078D4" stroke-width="1.5"/>
+      <text x="717.4" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#0078D4" text-anchor="middle">Microsoft Data Analyst</text>
+    </g>
+    <g>
+      <rect x="864.5" y="13.0" width="321.8" height="44" rx="22.0" fill="#2ECC71" opacity="0.15" stroke="#2ECC71" stroke-width="1.5"/>
+      <text x="1025.4" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#2ECC71" text-anchor="middle">OCI AI Foundations Associate</text>
+    </g>
+    <g>
+      <rect x="1202.2" y="13.0" width="252.3" height="44" rx="22.0" fill="#4285F4" opacity="0.15" stroke="#4285F4" stroke-width="1.5"/>
+      <text x="1328.4" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#4285F4" text-anchor="middle">Google GenAI Exchange</text>
+    </g>
+    <g>
+      <rect x="1470.6" y="13.0" width="272.2" height="44" rx="22.0" fill="#86BC25" opacity="0.15" stroke="#86BC25" stroke-width="1.5"/>
+      <text x="1606.6" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#86BC25" text-anchor="middle">Deloitte Data Analytics</text>
+    </g>
+    <g>
+      <rect x="1758.7" y="13.0" width="321.8" height="44" rx="22.0" fill="#E64A19" opacity="0.15" stroke="#E64A19" stroke-width="1.5"/>
+      <text x="1919.6" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#E64A19" text-anchor="middle">Sydney: Innovation by Design</text>
+    </g>
+    <g>
+      <rect x="2096.5" y="13.0" width="301.9" height="44" rx="22.0" fill="#4285F4" opacity="0.15" stroke="#4285F4" stroke-width="1.5"/>
+      <text x="2247.4" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#4285F4" text-anchor="middle">Google Cloud Arcade Novice</text>
+    </g>
+    <g>
+      <rect x="2414.4" y="13.0" width="232.5" height="44" rx="22.0" fill="#34A853" opacity="0.15" stroke="#34A853" stroke-width="1.5"/>
+      <text x="2530.6" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#34A853" text-anchor="middle">36+ GC Skill Badges</text>
+    </g>
+      
+    <g>
+      <rect x="2662.9" y="13.0" width="292.0" height="44" rx="22.0" fill="#8E44AD" opacity="0.15" stroke="#8E44AD" stroke-width="1.5"/>
+      <text x="2808.9" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#8E44AD" text-anchor="middle">Tata GenAI Data Analytics</text>
+    </g>
+    <g>
+      <rect x="2970.9" y="13.0" width="262.2" height="44" rx="22.0" fill="#F5820D" opacity="0.15" stroke="#F5820D" stroke-width="1.5"/>
+      <text x="3102.0" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#F5820D" text-anchor="middle">OCI GenAI Professional</text>
+    </g>
+    <g>
+      <rect x="3249.1" y="13.0" width="262.2" height="44" rx="22.0" fill="#0078D4" opacity="0.15" stroke="#0078D4" stroke-width="1.5"/>
+      <text x="3380.2" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#0078D4" text-anchor="middle">Microsoft Data Analyst</text>
+    </g>
+    <g>
+      <rect x="3527.4" y="13.0" width="321.8" height="44" rx="22.0" fill="#2ECC71" opacity="0.15" stroke="#2ECC71" stroke-width="1.5"/>
+      <text x="3688.2" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#2ECC71" text-anchor="middle">OCI AI Foundations Associate</text>
+    </g>
+    <g>
+      <rect x="3865.1" y="13.0" width="252.3" height="44" rx="22.0" fill="#4285F4" opacity="0.15" stroke="#4285F4" stroke-width="1.5"/>
+      <text x="3991.3" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#4285F4" text-anchor="middle">Google GenAI Exchange</text>
+    </g>
+    <g>
+      <rect x="4133.4" y="13.0" width="272.2" height="44" rx="22.0" fill="#86BC25" opacity="0.15" stroke="#86BC25" stroke-width="1.5"/>
+      <text x="4269.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#86BC25" text-anchor="middle">Deloitte Data Analytics</text>
+    </g>
+    <g>
+      <rect x="4421.6" y="13.0" width="321.8" height="44" rx="22.0" fill="#E64A19" opacity="0.15" stroke="#E64A19" stroke-width="1.5"/>
+      <text x="4582.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#E64A19" text-anchor="middle">Sydney: Innovation by Design</text>
+    </g>
+    <g>
+      <rect x="4759.4" y="13.0" width="301.9" height="44" rx="22.0" fill="#4285F4" opacity="0.15" stroke="#4285F4" stroke-width="1.5"/>
+      <text x="4910.3" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#4285F4" text-anchor="middle">Google Cloud Arcade Novice</text>
+    </g>
+    <g>
+      <rect x="5077.3" y="13.0" width="232.5" height="44" rx="22.0" fill="#34A853" opacity="0.15" stroke="#34A853" stroke-width="1.5"/>
+      <text x="5193.5" y="40.6" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#34A853" text-anchor="middle">36+ GC Skill Badges</text>
+    </g>
+    </g>
+  </g>
+  <rect x="0" y="0" width="900" height="70" fill="url(#fade)" pointer-events="none"/>
+</svg>
