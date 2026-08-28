@@ -184,14 +184,31 @@ More experiments live in my pinned repositories — scripts, automations, and UI
 
 ## Certifications & Achievements
 
-- Tata GenAI Powered Data Analytics — Forage
-- Oracle Cloud Infrastructure 2025 Generative AI Professional
-- Microsoft Data Analyst Certificate
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- Google Gen AI Exchange Program — Google & Hack2Skill
-- Data Analytics Virtual Internship — Deloitte / Forage
-- 36+ Google Cloud Skill Badges across AI/ML, BigQuery, and Infrastructure
-- 3× Winner, Logo Design Competition — Cyber Shadez, GLS University
+<div align="center">
+
+<marquee behavior="scroll" direction="right" scrollamount="6">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tata_GenAI_Powered_Data_Analytics-0B1F3F?style=for-the-badge&logoColor=C9A227"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OCI_2025_Generative_AI_Professional-0B1F3F?style=for-the-badge&logoColor=C9A227"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Data_Analyst_Certificate-0B1F3F?style=for-the-badge&logo=microsoft&logoColor=C9A227"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OCI_2025_AI_Foundations_Associate-0B1F3F?style=for-the-badge&logoColor=C9A227"/>&nbsp;&nbsp;
+</marquee>
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google_Gen_AI_Exchange_Program-0B1F3F?style=for-the-badge&logo=google&logoColor=C9A227"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Deloitte_Data_Analytics_Internship-0B1F3F?style=for-the-badge&logoColor=C9A227"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/36%2B_Google_Cloud_Skill_Badges-0B1F3F?style=for-the-badge&logo=googlecloud&logoColor=C9A227"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/3x_Winner_Logo_Design_Cyber_Shadez-0B1F3F?style=for-the-badge&logoColor=C9A227"/>&nbsp;&nbsp;
+</marquee>
+
+</div>
+
+<sub align="center">
+
+**Full list:** Tata GenAI Powered Data Analytics (Forage) · Oracle Cloud Infrastructure 2025 Generative AI Professional · Microsoft Data Analyst Certificate · Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate · Google Gen AI Exchange Program (Google & Hack2Skill) · Data Analytics Virtual Internship (Deloitte / Forage) · 36+ Google Cloud Skill Badges across AI/ML, BigQuery, and Infrastructure · 3× Winner, Logo Design Competition, Cyber Shadez, GLS University
+
+</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
