@@ -140,20 +140,20 @@ timeline
 ## Certifications & Achievements
 
 <div align="center">
-<img src="https://img.shields.io/badge/Tata_GenAI_Powered_Data_Analytics-0B1F3F?style=flat-square&logoColor=C9A227"/>
-<img src="https://img.shields.io/badge/OCI_2025_Generative_AI_Professional-0B1F3F?style=flat-square&logoColor=C9A227"/>
-<img src="https://img.shields.io/badge/Microsoft_Data_Analyst_Certificate-0B1F3F?style=flat-square&logo=microsoft&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/Tata_GenAI_Powered_Data_Analytics-white?style=flat-square&logoColor=0B1F3F&labelColor=white&color=white"/>
+<img src="https://img.shields.io/badge/OCI_2025_Generative_AI_Professional-white?style=flat-square&logoColor=0B1F3F&labelColor=white&color=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Data_Analyst_Certificate-white?style=flat-square&logo=microsoft&logoColor=0B1F3F&labelColor=white&color=white"/>
 <br/>
-<img src="https://img.shields.io/badge/OCI_2025_AI_Foundations_Associate-0B1F3F?style=flat-square&logoColor=C9A227"/>
-<img src="https://img.shields.io/badge/Google_Gen_AI_Exchange_Program-0B1F3F?style=flat-square&logo=google&logoColor=C9A227"/>
-<img src="https://img.shields.io/badge/Deloitte_Data_Analytics_Internship-0B1F3F?style=flat-square&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/OCI_2025_AI_Foundations_Associate-white?style=flat-square&logoColor=0B1F3F&labelColor=white&color=white"/>
+<img src="https://img.shields.io/badge/Google_Gen_AI_Exchange_Program-white?style=flat-square&logo=google&logoColor=0B1F3F&labelColor=white&color=white"/>
+<img src="https://img.shields.io/badge/Deloitte_Data_Analytics_Internship-white?style=flat-square&logoColor=0B1F3F&labelColor=white&color=white"/>
 <br/>
-<img src="https://img.shields.io/badge/36%2B_Google_Cloud_Skill_Badges-0B1F3F?style=flat-square&logo=googlecloud&logoColor=C9A227"/>
-<img src="https://img.shields.io/badge/3x_Winner_Logo_Design_Cyber_Shadez-0B1F3F?style=flat-square&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/36%2B_Google_Cloud_Skill_Badges-white?style=flat-square&logo=googlecloud&logoColor=0B1F3F&labelColor=white&color=white"/>
+<img src="https://img.shields.io/badge/3x_Winner_Logo_Design_Cyber_Shadez-white?style=flat-square&logoColor=0B1F3F&labelColor=white&color=white"/>
 
 <br/><br/>
 
-<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22doughnut%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Cloud%20%26%20Infra%20(36%2B)%22%2C%20%22GenAI%20%2F%20AI%22%2C%20%22Data%20Analytics%22%2C%20%22Design%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B36%2C%203%2C%202%2C%201%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23C9A227%22%2C%20%22%231B3A6B%22%2C%20%22%234A6FA5%22%2C%20%22%238FA8D6%22%5D%2C%20%22borderColor%22%3A%20%22%230B1F3F%22%2C%20%22borderWidth%22%3A%203%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22right%22%2C%20%22labels%22%3A%20%7B%22fontColor%22%3A%20%22%23ffffff%22%2C%20%22fontSize%22%3A%2012%7D%7D%7D%7D&backgroundColor=0B1F3F&width=560&height=320&devicePixelRatio=2" alt="Certification breakdown" width="70%"/>
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22doughnut%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Cloud%20%26%20Infra%20(36%2B)%22%2C%20%22GenAI%20%2F%20AI%22%2C%20%22Data%20Analytics%22%2C%20%22Design%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B36%2C%203%2C%202%2C%201%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23C9A227%22%2C%20%22%231B3A6B%22%2C%20%22%234A6FA5%22%2C%20%22%238FA8D6%22%5D%2C%20%22borderColor%22%3A%20%22%23ffffff%22%2C%20%22borderWidth%22%3A%203%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22position%22%3A%20%22right%22%2C%20%22labels%22%3A%20%7B%22fontColor%22%3A%20%22%230B1F3F%22%2C%20%22fontSize%22%3A%2012%7D%7D%7D%7D&backgroundColor=white&width=560&height=320&devicePixelRatio=2" alt="Certification breakdown" width="70%"/>
 
 </div>
 
