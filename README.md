@@ -1,289 +1,238 @@
-<!-- ============================================================ -->
-<!--                     VISHV BHAVSAR — README                    -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4285F4,100:00D9FF&height=280&section=header&text=Hey%20there,%20I'm%20Vishv%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20things%20with%20data,%20code%20%26%20curiosity&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3F,50:1B3A6B,100:C9A227&height=250&section=header&text=Vishv%20Bhavsar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20GenAI%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=17&fontFamily=Poppins" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+whoami+%E2%86%92+Data+%2B+AI+%2B+Full-Stack+Builder;%3E+status+%E2%86%92+Currently+shipping+Spendlytics+%F0%9F%9A%80;%3E+mood+%E2%86%92+Learn.+Build.+Break.+Fix.+Repeat.;%3E+fun_fact+%E2%86%92+I+debug+with+coffee+%E2%98%95+not+print()" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=C9A227&center=true&vCenter=true&width=750&lines=Turning+data+into+decisions,+ideas+into+products;MSc+IT+Candidate+%40+GLS+University;Building+SmartSpend+%2F+Spendlytics" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://vishv05.github.io/"><img src="https://img.shields.io/badge/Portfolio-0B1F3F?style=for-the-badge&logo=googlechrome&logoColor=C9A227" /></a>
+<a href="https://www.linkedin.com/in/vishv-bhavsar-b1507b290/"><img src="https://img.shields.io/badge/LinkedIn-0B1F3F?style=for-the-badge&logo=linkedin&logoColor=C9A227" /></a>
+<a href="https://www.kaggle.com/vishvbhavsar"><img src="https://img.shields.io/badge/Kaggle-0B1F3F?style=for-the-badge&logo=kaggle&logoColor=C9A227" /></a>
+<a href="https://www.naukri.com/mnj/fullProfile"><img src="https://img.shields.io/badge/Naukri-0B1F3F?style=for-the-badge&logo=naukri&logoColor=C9A227" /></a>
+<a href="mailto:vishvbhavsar2004@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F3F?style=for-the-badge&logo=gmail&logoColor=C9A227" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Profile%20Visits&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvishv05-github%2Fvisits&style=for-the-badge&logo=github" alt="visits"/>
-<img src="https://komarev.com/ghpvc/?username=Vishv05&label=REPO%20VIEWS&color=00D9FF&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=Vishv05&label=Profile%20Views&color=0B1F3F&style=flat-square" alt="profile views"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/StopWatch.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
-<p align="center">
-<a href="https://vishv05.github.io/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/vishv-bhavsar-b1507b290/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" /></a>
-<a href="https://www.kaggle.com/vishvbhavsar"><img src="https://img.shields.io/badge/KAGGLE-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=0d1117" /></a>
-<a href="https://www.naukri.com/mnj/fullProfile"><img src="https://img.shields.io/badge/NAUKRI-0d1117?style=for-the-badge&logo=naukri&logoColor=fff&labelColor=0d1117" /></a>
-<a href="mailto:vishvbhavsar2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" /></a>
-</p>
+## About Me
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/StopWatch.gif" width="100%" height="4">
+I'm a builder working at the intersection of clean user experience, full-stack engineering, and data-driven intelligence — turning raw data and rough ideas into polished, production-ready products.
 
-<br/>
+- **Currently building:** SmartSpend / Spendlytics — an intelligent expense analytics platform
+- **Currently exploring:** LLM architectures, NLP pipelines, advanced Power BI DAX & BigQuery warehousing
+- **Focus areas:** Data Analytics · Machine Learning · GenAI · Full-Stack Web Development
+- **Philosophy:** Learn → Build → Experiment → Document → Scale
 
-## 🧭 `./about-me.sh`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
-```yaml
-> const vishv = {
-    role:        "Data Analytics • ML • GenAI • Full-Stack Developer",
-    education:   "MSc IT @ GLS University (2025 - 2027)",
-    currently:   "Building SmartSpend / Spendlytics 💰",
-    exploring:   ["LLM Architectures", "NLP Pipelines", "BigQuery Warehousing"],
-    philosophy:  "Learn → Build → Experiment → Document → Scale 🚀",
-    funFact:     "Turns curiosity into production-ready projects",
-    reachMeAt:   "vishvbhavsar2004@gmail.com"
-  };
-```
+## Technical Skills
 
-<table align="center">
-<tr>
-<td valign="top" width="55%">
-
-### 💡 A bit about me
-
-I'm a builder who lives at the intersection of **clean UX**, **full-stack engineering**, and **data-driven intelligence**. From wireframes to warehouses, I enjoy taking an idea all the way from sketch → shipped product.
-
-- 🔭 **Currently Building:** SmartSpend / Spendlytics — an intelligent expense analytics platform
-- 🧪 **Currently Exploring:** LLMs, NLP pipelines, advanced Power BI DAX & BigQuery
-- 🎯 **Goal:** Ship scalable, data-powered products that solve real problems, elegantly
-- ⚡ **Fun fact:** I've earned 36+ Google Cloud Skill Badges chasing rabbit holes
-
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer.gif" width="100%"/>
-
-</td>
-</tr>
+<table width="100%">
+<tr><td width="200"><b>Python</b></td><td width="100%"><img src="https://progress-bar.xyz/88?title=&width=400&color=0B1F3F&suffix=%25"/></td></tr>
+<tr><td><b>SQL</b></td><td><img src="https://progress-bar.xyz/80?title=&width=400&color=1B3A6B&suffix=%25"/></td></tr>
+<tr><td><b>Machine Learning</b></td><td><img src="https://progress-bar.xyz/75?title=&width=400&color=0B1F3F&suffix=%25"/></td></tr>
+<tr><td><b>Power BI / DAX</b></td><td><img src="https://progress-bar.xyz/78?title=&width=400&color=1B3A6B&suffix=%25"/></td></tr>
+<tr><td><b>Django / Full-Stack</b></td><td><img src="https://progress-bar.xyz/85?title=&width=400&color=0B1F3F&suffix=%25"/></td></tr>
+<tr><td><b>UI / UX Design</b></td><td><img src="https://progress-bar.xyz/80?title=&width=400&color=1B3A6B&suffix=%25"/></td></tr>
 </table>
-
-<br/>
-
-## 🛠️ `./tech-stack --verbose`
-
-<div align="center">
 
 **Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,django,sqlite&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Python-0B1F3F?style=flat-square&logo=python&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/JavaScript-0B1F3F?style=flat-square&logo=javascript&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/SQL-0B1F3F?style=flat-square&logo=postgresql&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/Django-0B1F3F?style=flat-square&logo=django&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/HTML5-0B1F3F?style=flat-square&logo=html5&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/CSS3-0B1F3F?style=flat-square&logo=css3&logoColor=C9A227"/>
 
 **Analytics, BI & Cloud**
-
-<img src="https://skillicons.dev/icons?i=powerbi,gcp,postgres,pandas&theme=dark" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-**AI / ML / GenAI**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-**Web, UI/UX & Tools**
-
-<img src="https://skillicons.dev/icons?i=figma,bootstrap,git,github,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-
-</div>
-
 <br/>
+<img src="https://img.shields.io/badge/Power_BI-0B1F3F?style=flat-square&logo=powerbi&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/BigQuery-0B1F3F?style=flat-square&logo=googlebigquery&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/Google_Cloud-0B1F3F?style=flat-square&logo=googlecloud&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/Pandas-0B1F3F?style=flat-square&logo=pandas&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/NumPy-0B1F3F?style=flat-square&logo=numpy&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/Excel-0B1F3F?style=flat-square&logo=microsoftexcel&logoColor=C9A227"/>
 
-## 📈 `./skill-proficiency`
-
-<div align="center">
-
-`Python` `████████████████████░░░` 88%
-`SQL` `██████████████████░░░░░` 80%
-`Machine Learning` `████████████████░░░░░░░` 72%
-`Power BI / DAX` `██████████████████░░░░░` 78%
-`Django / Full-Stack` `████████████████████░░░` 85%
-`UI / UX Design` `██████████████████░░░░░` 80%
-
-</div>
-
+**AI, ML & GenAI**
 <br/>
+<img src="https://img.shields.io/badge/Scikit_Learn-0B1F3F?style=flat-square&logo=scikitlearn&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/TensorFlow-0B1F3F?style=flat-square&logo=tensorflow&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/NLP-0B1F3F?style=flat-square"/>
+<img src="https://img.shields.io/badge/GenAI-0B1F3F?style=flat-square&logo=openai&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/Streamlit-0B1F3F?style=flat-square&logo=streamlit&logoColor=C9A227"/>
 
-## 💼 `./career.log`
+**Web & Design Tools**
+<br/>
+<img src="https://img.shields.io/badge/Figma-0B1F3F?style=flat-square&logo=figma&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/Bootstrap-0B1F3F?style=flat-square&logo=bootstrap&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/Chart.js-0B1F3F?style=flat-square&logo=chartdotjs&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/Git-0B1F3F?style=flat-square&logo=git&logoColor=C9A227"/>
+<img src="https://img.shields.io/badge/GitHub_Pages-0B1F3F?style=flat-square&logo=github&logoColor=C9A227"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
+
+## Experience
 
 <table>
-<tr><th align="left">🏢 Role</th><th align="left">Organization</th><th align="left">Duration</th><th align="left">Impact</th></tr>
+<tr><th align="left">Role</th><th align="left">Organization</th><th align="left">Duration</th><th align="left">Highlights</th></tr>
 <tr>
-<td>UI/UX Designer & Front-End Dev</td>
-<td><b>HRDM Global Solutions</b></td>
-<td>Jul 2025 – Present</td>
-<td>Building end-to-end web architectures with Django + JS, shipping accessible, responsive dashboards</td>
+<td valign="top"><b>UI/UX Designer &<br/>Front-End Developer</b></td>
+<td valign="top">HRDM Global Solutions</td>
+<td valign="top">Jul 2025 – Present</td>
+<td valign="top">Designing end-to-end web architectures with Django and JavaScript; building accessible, responsive, user-centric dashboards</td>
 </tr>
 <tr>
-<td>Data Analysis Intern</td>
-<td><b>Cognifyz Technologies</b></td>
-<td>Feb – Mar 2026</td>
-<td>Ran deep EDA across multi-variable food datasets, surfaced pricing & geospatial trends via Pandas/Seaborn</td>
+<td valign="top"><b>Data Analysis Intern</b></td>
+<td valign="top">Cognifyz Technologies</td>
+<td valign="top">Feb – Mar 2026</td>
+<td valign="top">Executed exploratory data analysis across multi-variable food datasets; extracted pricing, geospatial, and rating trends using Pandas, Seaborn & Matplotlib</td>
 </tr>
 <tr>
-<td>Data Science Intern</td>
-<td><b>Prodigy InfoTech</b></td>
-<td>Feb 2026</td>
-<td>Processed 100K+ records with regression/decision trees, built sentiment models with TF-IDF + Logistic Regression</td>
+<td valign="top"><b>Data Science Intern</b></td>
+<td valign="top">Prodigy InfoTech</td>
+<td valign="top">Feb 2026</td>
+<td valign="top">Processed 100K+ records using regression, decision trees, and classification pipelines; built sentiment analysis models with TF-IDF and Logistic Regression</td>
 </tr>
 <tr>
-<td>UI/UX Designer</td>
-<td><b>Zidio Development</b></td>
-<td>May – Jul 2025</td>
-<td>Designed wireframes, component libraries, and polished product prototypes</td>
+<td valign="top"><b>UI/UX Designer</b></td>
+<td valign="top">Zidio Development</td>
+<td valign="top">May – Jul 2025</td>
+<td valign="top">Designed interactive wireframes, component libraries, and polished product prototypes</td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
-## 🚀 `./featured-projects`
+## Featured Projects
 
-<table align="center">
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 SmartSpend / Spendlytics
-🟢 `Active` · ⭐ `Flagship`
+### SmartSpend / Spendlytics
+**Active Development · Flagship Project**
 
-Full-scale expense management & analytics platform — real-time spend insights, budgets, and visual dashboards.
+A full-scale expense management and financial analytics platform delivering real-time spending insights, budget tracking, and data visualization.
 
 `Django` `Python` `Chart.js` `SQL` `Bootstrap`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI E-Learning Analytics
-⚡ `ML Experiment`
+### AI E-Learning Analytics Platform
+**Machine Learning Experiment**
 
-Monitors student engagement, predicts drop-off points, and delivers adaptive, personalized feedback.
+An intelligent learning analytics system that monitors student engagement, predicts drop-off points, and delivers adaptive educational insights.
 
 `Python` `Scikit-Learn` `Pandas` `Streamlit`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Cognifyz Restaurant EDA
-📈 `Data Case Study`
+### Cognifyz Restaurant EDA
+**Data Analytics Case Study**
 
-Uncovers key drivers behind restaurant success — rating distributions, pricing, and delivery logistics.
+Comprehensive analysis uncovering key drivers behind restaurant success, rating distributions, and delivery logistics.
 
 `Python` `Pandas` `NumPy` `Seaborn`
-<br/>[→ View Repo](#)
+<br/>[View Repository →](#)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Prodigy Data Science Suite
-🧪 `ML + NLP`
+### Prodigy Data Science Suite
+**Machine Learning & NLP**
 
-End-to-end pipeline over 100K+ entries for sentiment classification & behavior prediction.
+End-to-end predictive modeling suite handling 100K+ entries for sentiment classification and customer behavior prediction.
 
 `TF-IDF` `Logistic Regression` `NLP`
-<br/>[→ View Repo](#)
+<br/>[View Repository →](#)
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2" align="center">
+<td width="50%" valign="top" colspan="2">
 
-### 🌐 Personal Portfolio Platform
-🚀 `Live` · Interactive certificate gallery + dynamic dark mode
+### Personal Portfolio Platform
+**Live Web Platform**
+
+Interactive personal portfolio with modern aesthetics, an interactive certificate gallery, and dynamic dark mode.
 
 `HTML5` `CSS3` `JavaScript` `GitHub Pages`
-<br/>[→ Visit Live Site](https://vishv05.github.io/) &nbsp;·&nbsp; [→ Source Code](#)
+<br/>[Visit Live Site →](https://vishv05.github.io/) &nbsp;·&nbsp; [Source Code →](#)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-🧪 **More lab experiments live in my pinned repos** — scripts, automations, and UI widgets, always cooking.
-[**→ View All Repositories**](https://github.com/Vishv05?tab=repositories)
-
+More experiments live in my pinned repositories — scripts, automations, and UI utilities.
+<br/>
+<a href="https://github.com/Vishv05?tab=repositories"><b>View All Repositories →</b></a>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
-## 🏅 `./certifications --all`
+## Certifications & Achievements
+
+- Tata GenAI Powered Data Analytics — Forage
+- Oracle Cloud Infrastructure 2025 Generative AI Professional
+- Microsoft Data Analyst Certificate
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Google Gen AI Exchange Program — Google & Hack2Skill
+- Data Analytics Virtual Internship — Deloitte / Forage
+- 36+ Google Cloud Skill Badges across AI/ML, BigQuery, and Infrastructure
+- 3× Winner, Logo Design Competition — Cyber Shadez, GLS University
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
+
+## GitHub Analytics
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| 🟣 Tata GenAI Powered Data Analytics — Forage | 🟠 OCI 2025 Generative AI Professional | 🔵 Microsoft Data Analyst Certificate |
-| 🟢 OCI 2025 Certified AI Foundations Associate | 🔷 Google Gen AI Exchange — Google × Hack2Skill | 🟡 Data Analytics Internship — Deloitte / Forage |
-| ☁️ **36+ Google Cloud Skill Badges** — AI/ML, BigQuery, Infra, GenAI | 🏆 **3× Winner** — Logo Design, Cyber Shadez, GLS University | |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishv05&show_icons=true&hide_border=true&count_private=true&bg_color=0B1F3F&title_color=C9A227&icon_color=C9A227&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishv05&layout=compact&hide_border=true&bg_color=0B1F3F&title_color=C9A227&text_color=ffffff" />
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishv05&hide_border=true&background=0B1F3F&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
-<br/>
-
-## 📊 `./github-stats --live`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishv05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=8A2BE2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishv05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishv05&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=8A2BE2" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishv05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=8A2BE2&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishv05&hide_border=true&bg_color=0B1F3F&color=C9A227&line=C9A227&point=ffffff&area=true&area_color=C9A227" width="95%"/>
 
 </div>
 
 <details>
-<summary align="center"><b>🏆 Click to reveal GitHub Trophies</b></summary>
+<summary align="center"><b>View GitHub Trophies</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vishv05&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vishv05&no-frame=true&column=4&margin-w=15&margin-h=15&theme=onedark" />
 </div>
 </details>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
-## 🐍 `./contribution-snake`
+## Let's Connect
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Vishv05/Vishv05/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>⚙️ auto-generated nightly via GitHub Actions</sub>
-</div>
-
-<br/>
-
-## 🎯 `./quote-of-the-day`
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=%22Curious+about+technology.%22;%22Passionate+about+building.%22;%22Always+learning,+always+shipping.%22" />
-</div>
-
-<br/>
-
-## 🤝 `./lets-connect`
+Open to collaborations, data projects, full-stack opportunities, and technical discussions.
 
 <div align="center">
 
-Open to **collaborations**, **data projects**, **full-stack opportunities**, and **good tech conversations** — my inbox is always open.
-
-<a href="https://vishv05.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vishv-bhavsar-b1507b290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/vishvbhavsar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="mailto:vishvbhavsar2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://vishv05.github.io/"><img src="https://img.shields.io/badge/Portfolio-0B1F3F?style=for-the-badge&logo=googlechrome&logoColor=C9A227" /></a>
+<a href="https://www.linkedin.com/in/vishv-bhavsar-b1507b290/"><img src="https://img.shields.io/badge/LinkedIn-0B1F3F?style=for-the-badge&logo=linkedin&logoColor=C9A227" /></a>
+<a href="https://www.kaggle.com/vishvbhavsar"><img src="https://img.shields.io/badge/Kaggle-0B1F3F?style=for-the-badge&logo=kaggle&logoColor=C9A227" /></a>
+<a href="mailto:vishvbhavsar2004@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F3F?style=for-the-badge&logo=gmail&logoColor=C9A227" /></a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/wave.gif" width="60"/>
+<i>Curious about technology. Passionate about building. Always learning.</i>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4285F4,100:8A2BE2&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,50:1B3A6B,100:0B1F3F&height=120&section=footer"/>
