@@ -1,13 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:172554,100:2563EB&height=240&section=header&text=Vishv%20Bhavsar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20with%20Code%20%7C%20AI%20%7C%20Data%20%7C%20Design&descAlignY=60&descSize=17&fontFamily=Poppins" width="100%"/>
+<!-- ==================== ANIMATED HERO ==================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Exploring+AI%2C+Machine+Learning+%26+Generative+AI;Building+Data-Driven+%26+Intelligent+Applications;Creating+Modern+Web+Experiences+with+Code+%26+Design;Learning%2C+Building%2C+Experimenting+%26+Growing" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0F172A,70:1D4ED8,100:06B6D4&height=260&section=header&text=Vishv%20Bhavsar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20%E2%80%A2%20Design%20%E2%80%A2%20Innovation&descAlignY=60&descSize=17&fontFamily=Poppins" width="100%"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+%26+Data-Driven+Applications;Developing+Modern+Web+%26+Software+Solutions;Exploring+Generative+AI%2C+NLP+%26+Large+Language+Models;Turning+Ideas+into+Real-World+Projects;Always+Learning.+Always+Building." alt="Typing Animation"/>
+
+<br/><br/>
+
+<!-- ==================== SOCIAL LINKS ==================== -->
+
 <a href="https://vishv05.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=googlechrome&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-0F172A?style=for-the-badge&logoColor=38BDF8"/>
 </a>
 <a href="https://www.linkedin.com/in/vishv-bhavsar-b1507b290/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,155 +27,293 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vishv05&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Vishv05&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- ==================== ANIMATED DIVIDER ==================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:7C3AED&height=4&width=100%"/>
+
+</div>
+
+<br/>
+
+<!-- ==================== ABOUT ==================== -->
+
+## 👋 About Me
+
+I'm an **MSc IT student at GLS University** with a strong curiosity for technology and a passion for turning ideas into practical digital products.
+
+I enjoy exploring different areas of the technology ecosystem — from **software development and artificial intelligence to data, cloud technologies, UI/UX and automation**.
+
+Rather than limiting myself to a single technology, I enjoy understanding how different technologies work together to create complete solutions.
+
+```text
+        IDEA
+          │
+          ▼
+     PROBLEM SOLVING
+          │
+          ▼
+   DESIGN + DEVELOPMENT
+          │
+          ▼
+     DATA / AI / LOGIC
+          │
+          ▼
+      INTEGRATION
+          │
+          ▼
+     WORKING PRODUCT
+```
+
+### ⚡ A Few Things About Me
+
+* 🎓 MSc Information Technology — **GLS University**
+* 🧠 Exploring **AI, ML, NLP, Generative AI & LLMs**
+* 💻 Building **web, software and application-based projects**
+* 📊 Working with **data, analytics and visualization**
+* ☁️ Exploring **Google Cloud, Big Data & cloud-based technologies**
+* 🎨 Interested in **UI/UX and digital product experiences**
+* 🚀 Learning by **building real projects and experimenting**
+* 🌱 Constantly exploring new technologies and development approaches
+
+<br/>
+
+<div align="center">
+
+### ✨ Open to Engineering and IT roles.
 
 </div>
 
 ---
 
-## 👋 Hello, I'm Vishv
-
-I'm an **MSc IT student at GLS University** who enjoys exploring different areas of technology and turning ideas into practical digital products.
-
-My interests span across **software engineering, artificial intelligence, data, cloud technologies, web development, and UI/UX**. I enjoy working across the complete journey of a project — from understanding the problem and designing the experience to building, integrating, testing, and deploying the solution.
-
-I'm particularly interested in projects where **technology solves a real-world problem** rather than simply demonstrating a technology.
-
-> **Open to Engineering and IT roles.**
-
----
+<!-- ==================== WHAT I BUILD ==================== -->
 
 ## 🧩 What I Build
 
+<div align="center">
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-### 🤖 Intelligent Applications
+<td width="50%" align="center" valign="top">
 
-AI/ML, NLP, Generative AI and intelligent systems designed around practical use cases.
+### 🤖 AI & Intelligent Systems
+
+Artificial Intelligence, Machine Learning, NLP, Generative AI and intelligent applications.
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 💻 Software & Web Applications
+
+Modern applications, APIs, dashboards and full-stack solutions focused on usability and functionality.
 
 </td>
 
-<td width="50%" valign="top">
-
-### 💻 Software Applications
-
-Web and application development with modern frameworks, APIs, databases and cloud technologies.
-
-</td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### 📊 Data-Driven Solutions
+<td width="50%" align="center" valign="top">
 
-Data analysis, visualization, processing and analytics systems that transform data into useful insights.
+### 📊 Data & Analytics
+
+Data processing, exploratory analysis, visualization, insights and data-driven applications.
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🎨 UI/UX & Digital Experiences
+
+User interfaces, responsive experiences, prototypes and visually engaging digital products.
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🎨 Digital Experiences
-
-Modern interfaces, UI/UX systems, responsive websites and user-focused digital experiences.
-
-</td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
+> **A selection of projects I've built, explored and experimented with.**
+
+</div>
+
+<br/>
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### 💰 Spendlytics
 
 **Intelligent Expense Management & Analytics Platform**
 
-A full-scale expense management and analytics solution designed to help users understand, track and manage their financial activity through structured data and interactive insights.
+A comprehensive expense management platform focused on tracking expenses, managing budgets and generating meaningful financial insights through interactive analytics.
 
-`Python` `Django` `JavaScript` `SQL` `Data Analytics` `Dashboard`
+**Tech:**
+`Python` `Django` `JavaScript` `SQL` `Data Analytics`
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧠 TalentLens
 
-**Intelligent AI/NLP-Based Application**
+**AI-Powered Intelligent Analysis System**
 
-An AI-focused project exploring natural language processing and intelligent analysis to transform unstructured information into meaningful, actionable insights.
+An AI/NLP-focused project exploring intelligent processing of information and transforming unstructured content into useful insights.
 
-`Python` `NLP` `Machine Learning` `AI` `Data Processing`
+**Tech:**
+`Python` `NLP` `Machine Learning` `AI`
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🛡️ LogIntel
 
 **Intelligent Log Analysis & Monitoring**
 
-A technology-focused project built around analyzing application/system logs and extracting useful information to support monitoring, understanding and troubleshooting.
+A project focused on processing and analyzing logs to extract meaningful information that can support monitoring, understanding and troubleshooting.
 
+**Tech:**
 `Python` `Data Processing` `AI/ML` `Analytics`
 
----
+</td>
 
-### 📚 AI Tutor System
+<td width="50%" valign="top">
+
+### 🤖 AI Tutor System
 
 **NLP-Based Intelligent Learning Assistant**
 
-An AI-powered learning system designed to interact with educational content and provide students with a more intelligent and personalized learning experience.
+An AI-powered educational system designed to provide an intelligent and interactive learning experience using Natural Language Processing.
 
+**Tech:**
 `Python` `NLP` `Machine Learning` `AI` `Streamlit`
 
----
+</td>
 
-### 📖 LiteraryHub
+</tr>
 
-**Digital Literary & Content Platform**
+<tr>
 
-A web-based platform focused on creating, managing and presenting literary content through a structured digital experience.
+<td width="50%" valign="top">
 
+### 📚 LiteraryHub
+
+**Digital Literary Platform**
+
+A web-based platform designed around digital literary content, structured management and an engaging user experience.
+
+**Tech:**
 `Django` `Python` `HTML` `CSS` `JavaScript` `Database`
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 📒 LedgerLens
 
-**Data & Intelligence-Focused Application**
+**Data & Intelligence Application**
 
-A project combining data processing, analytics and intelligent functionality to transform structured information into useful insights.
+A project focused on processing structured information and transforming it into meaningful insights through analytics and intelligent functionality.
 
+**Tech:**
 `Python` `Data Analytics` `Machine Learning` `Visualization`
 
-</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📱 Customer Management System
+
+**Cross-Platform Mobile Application**
+
+A customer management application developed as a cross-platform solution with structured customer data and application workflows.
+
+**Tech:**
+`Flutter` `Dart` `UI/UX`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+**Interactive Personal Portfolio**
+
+A modern personal portfolio showcasing projects, skills, experience, certifications and professional information through an interactive web experience.
+
+**Tech:**
+`HTML5` `CSS3` `JavaScript` `GitHub Pages`
+
+</td>
+
+</tr>
+
+</table>
 
 <br/>
 
 <div align="center">
 
 <a href="https://github.com/Vishv05?tab=repositories">
-<b>→ Explore All Repositories</b>
+
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
 
+<!-- ==================== TECH STACK ==================== -->
+
 ## 🛠️ Technologies & Tools
 
 <div align="center">
 
-### Languages
+### 👨‍💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,dart&theme=dark"/>
 
-### Web & Application Development
+<br/><br/>
+
+### 🌐 Web & Application Development
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,django,fastapi,flutter&theme=dark"/>
 
-### AI / ML / Data
+<br/><br/>
+
+### 🤖 AI / ML / Data
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
 
@@ -181,7 +325,9 @@ A project combining data processing, analytics and intelligent functionality to 
 <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
 
-### Databases & Big Data
+<br/><br/>
+
+### 🗄️ Databases & Big Data
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark"/>
 
@@ -191,11 +337,15 @@ A project combining data processing, analytics and intelligent functionality to 
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 
-### Cloud & Development Tools
+<br/><br/>
+
+### ☁️ Cloud & Development Tools
 
 <img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,postman&theme=dark"/>
 
-### Design
+<br/><br/>
+
+### 🎨 Design
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
@@ -204,87 +354,162 @@ A project combining data processing, analytics and intelligent functionality to 
 
 ---
 
-## 💼 Experience
+<!-- ==================== DEVELOPMENT FLOW ==================== -->
 
-<table width="100%">
+## 🔄 How I Approach a Project
 
-<tr>
-<td width="25%" align="center">🏢</td>
-<td>
+<div align="center">
 
-**HRDM Global Solutions**
-UI/UX Designer & Front-End Developer
-`Jul 2025 – Present`
+```text
+┌───────────────┐
+│    💡 IDEA    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  🔍 RESEARCH  │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  🎨 DESIGN    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  💻 DEVELOP   │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  🧪 TEST      │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  🚀 DEPLOY    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  🔁 IMPROVE   │
+└───────────────┘
+```
 
-Working across UI/UX, front-end development and web application development, including Django-based systems and role-based dashboards.
-
-</td>
-</tr>
-
-<tr>
-<td width="25%" align="center">📊</td>
-<td>
-
-**Cognifyz Technologies**
-Data Analysis Intern
-`Feb 2026 – Mar 2026`
-
-Worked on data analysis, exploratory analysis and visualization using Python-based data tools.
-
-</td>
-</tr>
-
-<tr>
-<td width="25%" align="center">🤖</td>
-<td>
-
-**Prodigy InfoTech**
-Data Science Intern
-`Feb 2026`
-
-Worked with data science workflows involving data processing, machine learning and NLP-based experimentation.
-
-</td>
-</tr>
-
-<tr>
-<td width="25%" align="center">🎨</td>
-<td>
-
-**Zidio Development**
-UI/UX Designer
-`May 2025 – Jul 2025`
-
-Worked on interface design, wireframes, component systems and digital product experiences.
-
-</td>
-</tr>
-
-</table>
+</div>
 
 ---
+
+<!-- ==================== EXPERIENCE ==================== -->
+
+## 💼 Experience
+
+<details>
+<summary><b>🏢 HRDM Global Solutions — UI/UX Designer & Front-End Developer</b></summary>
+
+<br/>
+
+**Jul 2025 – Present**
+
+Working across UI/UX design, front-end development and web application development.
+
+* Designing modern and responsive user interfaces
+* Developing front-end experiences using HTML, CSS and JavaScript
+* Working with Django-based web applications
+* Building role-based dashboards
+* Translating design concepts into functional interfaces
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>📊 Cognifyz Technologies — Data Analysis Intern</b></summary>
+
+<br/>
+
+**Feb 2026 – Mar 2026**
+
+Worked on data analysis and exploratory data analysis using Python-based tools.
+
+* Data cleaning and preprocessing
+* Exploratory data analysis
+* Visualization and pattern identification
+* Working with structured datasets
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🤖 Prodigy InfoTech — Data Science Intern</b></summary>
+
+<br/>
+
+**Feb 2026**
+
+Worked on data science and machine learning experimentation.
+
+* Data processing
+* Machine learning workflows
+* Classification and regression experimentation
+* NLP and text-based analysis
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎨 Zidio Development — UI/UX Designer</b></summary>
+
+<br/>
+
+**May 2025 – Jul 2025**
+
+Worked on UI/UX design and digital product experiences.
+
+* Wireframing
+* Interface design
+* Prototyping
+* Component-based design systems
+
+</details>
+
+---
+
+<!-- ==================== EDUCATION ==================== -->
 
 ## 🎓 Education
 
+<div align="center">
+
 ### MSc Information Technology
 
-**GLS University** · `2025 – 2027`
+**GLS University**
 
-Exploring areas including:
+`2025 – 2027`
 
-`Artificial Intelligence` · `Machine Learning` · `Data Structures & Algorithms` · `Cloud Computing` · `Database Systems` · `Big Data`
+<br/>
+
+**Exploring**
+
+`AI & Machine Learning` · `Data Structures & Algorithms` · `Cloud Computing`
+`Database Management` · `Big Data` · `Software Development`
+
+</div>
 
 ---
+
+<!-- ==================== CERTIFICATIONS ==================== -->
 
 ## 🏆 Certifications & Learning
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Google-GenAI%20Exchange%20Program-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Google%20Cloud-Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Oracle-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Microsoft-Data%20Analyst-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Tata-GenAI%20Data%20Analytics-1F4E79?style=for-the-badge"/>
 
 </div>
@@ -293,53 +518,96 @@ Exploring areas including:
 
 <div align="center">
 
-Always learning through **certifications, hands-on labs, projects, internships, hackathons and experimentation.**
+📚 **Learning doesn't stop at certificates.**
+
+<br/>
+
+I continuously learn through projects, labs, internships, hackathons, experimentation and hands-on development.
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishv05&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=6B7280"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishv05&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=6B7280"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishv05&hide_border=true&background=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=6B7280&currStreakNum=111827&sideNums=111827&dates=6B7280"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishv05&hide_border=true&bg_color=transparent&color=2563EB&line=2563EB&point=111827&area=true" width="95%"/>
-
-</div>
-
----
+<!-- ==================== CURRENTLY EXPLORING ==================== -->
 
 ## 🧭 Currently Exploring
 
 <div align="center">
 
-`Artificial Intelligence` · `Machine Learning` · `Generative AI` · `NLP` · `LLMs`
-`Big Data` · `Cloud Computing` · `Data Engineering` · `Full-Stack Development`
-`UI/UX` · `Automation` · `Modern Web Technologies`
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Generative+AI+%26+LLMs;Natural+Language+Processing;Machine+Learning;Big+Data+%26+Data+Engineering;Cloud+Computing;Software+Engineering;Modern+Web+Technologies" alt="Currently Exploring"/>
 
 </div>
 
 ---
 
-## 🌱 My Approach
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
-> **Learn → Experiment → Build → Improve → Share**
+## 📊 GitHub Analytics
 
-I believe the best way to learn technology is to **build with it**.
+<div align="center">
 
-Every project is an opportunity to explore something new, solve a problem, improve my engineering skills and create something that can actually be used.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vishv05&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishv05&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishv05&hide_border=true&background=transparent&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishv05&hide_border=true&bg_color=transparent&color=38BDF8&line=2563EB&point=7C3AED&area=true" width="95%"/>
+
+</div>
 
 ---
+
+<!-- ==================== GITHUB TROPHIES ==================== -->
+
+## 🏅 GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vishv05&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="95%"/>
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vishv05/Vishv05/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ==================== PHILOSOPHY ==================== -->
+
+## 🌱 My Approach
+
+<div align="center">
+
+### **Learn → Experiment → Build → Improve → Share**
+
+<br/>
+
+> Technology becomes meaningful when you use it to solve problems.
+
+<br/>
+
+I believe every project is an opportunity to learn something new,
+experiment with technology, solve a problem and create something useful.
+
+</div>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
 
 ## 🤝 Let's Connect
 
@@ -347,26 +615,26 @@ Every project is an opportunity to explore something new, solve a problem, impro
 
 I'm always interested in **technology, interesting projects, collaboration, learning opportunities and new challenges.**
 
-<br/>
-
-**Open to Engineering and IT roles.**
-
 <br/><br/>
 
+### ✨ Open to Engineering and IT roles.
+
+<br/>
+
 <a href="https://vishv05.github.io/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-0B1020?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-0F172A?style=for-the-badge&logoColor=38BDF8"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vishv-bhavsar-b1507b290/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.kaggle.com/vishvbhavsar">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="mailto:vishvbhavsar2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -375,4 +643,12 @@ I'm always interested in **technology, interesting projects, collaboration, lear
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:0B1020&height=120&section=footer" width="100%"/>
+<br/>
+
+<!-- ==================== ANIMATED FOOTER ==================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:2563EB,70:172554,100:050816&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
