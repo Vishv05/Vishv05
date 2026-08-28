@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3F,50:1B3A6B,100:C9A227&height=250&section=header&text=Vishv%20Bhavsar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Python%20%C2%B7%20Data%20Storytelling&descAlignY=58&descSize=17&fontFamily=Poppins" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=C9A227&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+business+decisions;MSc+IT+Candidate+%40+GLS+University;Dashboards+%C2%B7+Queries+%C2%B7+Insights+%C2%B7+Impact" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=C9A227&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+business+decisions;MSc+IT+Student+%40+GLS+University;Dashboards+%C2%B7+Queries+%C2%B7+Insights+%C2%B7+Impact" alt="Typing SVG"/>
 
 <br/><br/>
 
