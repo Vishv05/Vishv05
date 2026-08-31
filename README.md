@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3F,50:1B3A6B,100:C9A227&height=250&section=header&text=Hi,%20I'm%20Vishv%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20Data%20%26%20Big%20Data%20%C2%B7%20Builder&descAlignY=58&descSize=16&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3F,50:1B3A6B,100:C9A227&height=250&section=header&text=Vishv%20Bhavsar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Practitioner%20%7C%20Full-Stack%20Developer%20%7C%20Big%20Data&descAlignY=58&descSize=16&fontFamily=Poppins" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=21&duration=3200&pause=1000&color=0B1F3F&center=true&vCenter=true&width=780&lines=Curious+about+AI%2C+Machine+Learning+%26+LLMs+%F0%9F%A4%96;Learning+Big+Data+%26+Cloud+Systems+one+project+at+a+time;MSc+IT+Candidate+%40+GLS+University+(2025-2027);Always+building.+Always+learning.+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=21&duration=3200&pause=1000&color=0B1F3F&center=true&vCenter=true&width=780&lines=Building+with+AI%2C+Data+%26+Software+Engineering;Applied+Machine+Learning+%C2%B7+Big+Data+%C2%B7+Cloud+Systems;MSc+Information+Technology+%40+GLS+University" alt="Typing SVG"/>
 
 <br/>
 
@@ -19,50 +19,77 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
 <!-- ============== SNAPSHOT ============== -->
-## 👋 Quick Snapshot
+## Professional Snapshot
 
 <div align="center">
 
 | | |
 |---|---|
-| 🎓 **Education** | MSc IT, GLS University (2025 – 2027) |
-| 📍 **Based in** | Ahmedabad, Gujarat, India |
-| 💡 **Currently into** | AI/ML, Data Analysis, Big Data, Full-Stack Dev |
-| 💼 **Status** | Open to Internships & Entry-Level Roles |
-| 📫 **Reach me at** | vishvbhavsar2004@gmail.com |
+| **Focus Areas** | Artificial Intelligence · Machine Learning · Data Analysis · Big Data · Full-Stack Development |
+| **Current Role** | UI/UX Designer & Front-End Developer, HRDM Global Solutions |
+| **Education** | MSc Information Technology, GLS University (2025 – 2027) |
+| **Location** | Ahmedabad, Gujarat, India |
+| **Availability** | Open to Full-Time & Internship Opportunities |
+| **Contact** | vishvbhavsar2004@gmail.com |
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
+
+<!-- ============== KPI DASHBOARD ============== -->
+## At a Glance
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img width="55" src="https://img.icons8.com/fluency/60/combo-chart.png"/><br/>
+<b>100K+</b><br/><sub>Records Analyzed</sub>
+</td>
+<td align="center" width="20%">
+<img width="55" src="https://img.icons8.com/fluency/60/certificate.png"/><br/>
+<b>40+</b><br/><sub>Certifications & Cloud Badges</sub>
+</td>
+<td align="center" width="20%">
+<img width="55" src="https://img.icons8.com/fluency/60/collaboration.png"/><br/>
+<b>4</b><br/><sub>Industry Internships</sub>
+</td>
+<td align="center" width="20%">
+<img width="55" src="https://img.icons8.com/fluency/60/dashboard.png"/><br/>
+<b>1</b><br/><sub>Flagship Product in Development</sub>
+</td>
+<td align="center" width="20%">
+<img width="55" src="https://img.icons8.com/fluency/60/database.png"/><br/>
+<b>5+</b><br/><sub>Production-Ready Projects</sub>
+</td>
+</tr>
+</table>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
 <!-- ============== ABOUT ============== -->
-## 🧑‍💻 About Me
+## About
 
-I'm an IT postgraduate student who genuinely enjoys the process of building — sketching an idea, wrangling messy data, training a model, and watching it all come together into something people can actually use. Half my free time goes into side projects, the other half into falling down AI/ML rabbit holes.
+I build at the intersection of software engineering, applied AI, and data systems. My work spans full-stack web development, exploratory and statistical data analysis, and machine learning — with a growing focus on large-scale data processing and applied GenAI.
 
-- 🔭 **Currently building:** SmartSpend / Spendlytics — an intelligent expense analytics platform
-- 🧠 **Currently exploring:** LLM architectures, NLP pipelines, and Big Data systems (Spark/Hadoop)
-- 📚 **Academic focus:** AI & Machine Learning, DSA, Cloud Computing, Database Management
-- 🌱 **Learning in public:** documenting projects, certifications, and experiments as I go
-- ⚡ **Fun fact:** 36+ Google Cloud Skill Badges earned mostly on weekends, purely out of curiosity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vishv05&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=0B1F3F&icon_color=C9A227&text_color=333333" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishv05&hide_border=true&background=ffffff&ring=C9A227&fire=C9A227&currStreakLabel=0B1F3F&sideLabels=333333&currStreakNum=0B1F3F&sideNums=333333&dates=666666" height="165"/>
-</div>
+- **Currently building:** SmartSpend / Spendlytics, a full-scale expense management and analytics platform
+- **Currently researching:** LLM architectures, NLP pipelines, and distributed data systems (Spark/Hadoop)
+- **Core competencies:** Data pipelines, predictive modeling, dashboarding, and responsive web application development
+- **Objective:** Apply AI and data engineering practices to solve measurable business problems
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
 <!-- ============== TECH STACK ============== -->
-## 🛠️ Tech Stack
+## Technical Skills
 
 <div align="center">
 
-**Coding Languages**
+**Programming Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,r&theme=light"/>
 
-**AI, ML & GenAI**
+**Artificial Intelligence & Machine Learning**
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=light"/>
 <img src="https://img.shields.io/badge/NLP-0B1F3F?style=for-the-badge"/>
@@ -76,14 +103,14 @@ I'm an IT postgraduate student who genuinely enjoys the process of building — 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=light"/>
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 
-**Data Analysis & BI**
+**Data Analysis & Business Intelligence**
 <br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-**Web, Cloud & Tools**
+**Web Development & Infrastructure**
 <br/>
 <img src="https://skillicons.dev/icons?i=django,html,css,git,github,gcp,vscode&theme=light"/>
 
@@ -91,8 +118,8 @@ I'm an IT postgraduate student who genuinely enjoys the process of building — 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
-<!-- ============== PROFICIENCY + INTEREST ============== -->
-## 📈 Skill Proficiency & Interest Areas
+<!-- ============== PROFICIENCY + FOCUS ============== -->
+## Skill Proficiency & Focus Distribution
 
 <table width="100%">
 <tr>
@@ -104,8 +131,8 @@ I'm an IT postgraduate student who genuinely enjoys the process of building — 
 </td>
 <td width="45%" valign="top">
 <div align="center">
-<sub><b>Where My Curiosity Points</b></sub><br/>
-<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22AI%20%2F%20ML%22%2C%20%22Big%20Data%22%2C%20%22Web%20Dev%22%2C%20%22Data%20Analysis%22%2C%20%22Cloud%22%2C%20%22UI%2FUX%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Interest%20Level%22%2C%20%22data%22%3A%20%5B95%2C%2085%2C%2075%2C%2088%2C%2080%2C%2070%5D%2C%20%22backgroundColor%22%3A%20%22rgba(201%2C162%2C39%2C0.35)%22%2C%20%22borderColor%22%3A%20%22%23C9A227%22%2C%20%22pointBackgroundColor%22%3A%20%22%230B1F3F%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22scale%22%3A%20%7B%22ticks%22%3A%20%7B%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%20100%2C%20%22fontColor%22%3A%20%22%230B1F3F%22%2C%20%22backdropColor%22%3A%20%22white%22%7D%2C%20%22angleLines%22%3A%20%7B%22color%22%3A%20%22rgba(11%2C31%2C63%2C0.2)%22%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22rgba(11%2C31%2C63%2C0.2)%22%7D%2C%20%22pointLabels%22%3A%20%7B%22fontColor%22%3A%20%22%230B1F3F%22%2C%20%22fontSize%22%3A%2012%7D%7D%7D%7D&backgroundColor=white&width=560&height=420&devicePixelRatio=2" width="100%"/>
+<sub><b>Domain Focus Distribution</b></sub><br/>
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22AI%20%2F%20ML%22%2C%20%22Big%20Data%22%2C%20%22Web%20Dev%22%2C%20%22Data%20Analysis%22%2C%20%22Cloud%22%2C%20%22UI%2FUX%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Focus%20Level%22%2C%20%22data%22%3A%20%5B95%2C%2085%2C%2075%2C%2088%2C%2080%2C%2070%5D%2C%20%22backgroundColor%22%3A%20%22rgba(201%2C162%2C39%2C0.35)%22%2C%20%22borderColor%22%3A%20%22%23C9A227%22%2C%20%22pointBackgroundColor%22%3A%20%22%230B1F3F%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22scale%22%3A%20%7B%22ticks%22%3A%20%7B%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%20100%2C%20%22fontColor%22%3A%20%22%230B1F3F%22%2C%20%22backdropColor%22%3A%20%22white%22%7D%2C%20%22angleLines%22%3A%20%7B%22color%22%3A%20%22rgba(11%2C31%2C63%2C0.2)%22%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22rgba(11%2C31%2C63%2C0.2)%22%7D%2C%20%22pointLabels%22%3A%20%7B%22fontColor%22%3A%20%22%230B1F3F%22%2C%20%22fontSize%22%3A%2012%7D%7D%7D%7D&backgroundColor=white&width=560&height=420&devicePixelRatio=2" width="100%"/>
 </div>
 </td>
 </tr>
@@ -114,7 +141,7 @@ I'm an IT postgraduate student who genuinely enjoys the process of building — 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
 <!-- ============== WORKFLOW ============== -->
-## 🔄 How I Build a Project
+## Project Methodology
 
 ```mermaid
 flowchart LR
@@ -135,7 +162,7 @@ flowchart LR
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
 <!-- ============== EXPERIENCE ============== -->
-## 💼 Experience Timeline
+## Professional Experience
 
 ```mermaid
 timeline
@@ -146,40 +173,55 @@ timeline
     Feb 2026  : Prodigy InfoTech — Data Science Intern
 ```
 
-<details>
-<summary><b>📄 Full experience details</b></summary>
-<br/>
-
-| Role | Organization | Duration | Impact |
-|---|---|---|---|
-| UI/UX Designer & Front-End Developer | HRDM Global Solutions | Jul 2025 – Present | Designing end-to-end web architectures with Django + JS; shipping accessible, responsive dashboards |
-| Data Analysis Intern | Cognifyz Technologies | Feb – Mar 2026 | Ran EDA across multi-variable food datasets; surfaced pricing & geospatial trends via Pandas/Seaborn |
-| Data Science Intern | Prodigy InfoTech | Feb 2026 | Processed 100K+ records with regression/classification pipelines; built sentiment models with TF-IDF |
-| UI/UX Designer | Zidio Development | May – Jul 2025 | Designed wireframes, component libraries, and product prototypes |
-
-</details>
+<table width="100%">
+<tr><th align="left">Role</th><th align="left">Organization</th><th align="left">Duration</th><th align="left">Impact</th></tr>
+<tr>
+<td valign="top"><b>UI/UX Designer & Front-End Developer</b></td>
+<td valign="top">HRDM Global Solutions</td>
+<td valign="top">Jul 2025 – Present</td>
+<td valign="top">Designing end-to-end web architectures with Django and JavaScript; delivering accessible, responsive, production-grade dashboards</td>
+</tr>
+<tr>
+<td valign="top"><b>Data Analysis Intern</b></td>
+<td valign="top">Cognifyz Technologies</td>
+<td valign="top">Feb – Mar 2026</td>
+<td valign="top">Conducted exploratory data analysis across multi-variable food datasets; extracted pricing, geospatial, and rating trends using Pandas, Seaborn & Matplotlib</td>
+</tr>
+<tr>
+<td valign="top"><b>Data Science Intern</b></td>
+<td valign="top">Prodigy InfoTech</td>
+<td valign="top">Feb 2026</td>
+<td valign="top">Processed 100K+ records using regression, decision trees, and classification pipelines; built sentiment analysis models using TF-IDF and Logistic Regression</td>
+</tr>
+<tr>
+<td valign="top"><b>UI/UX Designer</b></td>
+<td valign="top">Zidio Development</td>
+<td valign="top">May – Jul 2025</td>
+<td valign="top">Designed interactive wireframes, component libraries, and polished product prototypes</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
 <!-- ============== PROJECTS ============== -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💰 SmartSpend / Spendlytics
-**🟢 Active Development · ⭐ Flagship**
+### SmartSpend / Spendlytics
+**Active Development · Flagship Project**
 
-Full-scale expense management & analytics platform with real-time dashboards, budget tracking, and automated expense categorization.
+Full-scale expense management and financial analytics platform delivering real-time spending insights, budget tracking, and data visualization.
 
 `Django` `Python` `Chart.js` `SQL` `Bootstrap`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI E-Learning Analytics Platform
-**⚡ Machine Learning Experiment**
+### AI E-Learning Analytics Platform
+**Machine Learning Application**
 
 Monitors student engagement, predicts drop-off points, and delivers adaptive, data-driven educational insights.
 
@@ -190,10 +232,10 @@ Monitors student engagement, predicts drop-off points, and delivers adaptive, da
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ Cognifyz Restaurant EDA
-**📊 Data Analytics Case Study**
+### Cognifyz Restaurant EDA
+**Data Analytics Case Study**
 
-Exploratory analysis uncovering pricing patterns, rating distributions, and delivery logistics drivers.
+Comprehensive exploratory analysis uncovering pricing patterns, rating distributions, and delivery logistics drivers across a multi-variable dataset.
 
 `Python` `Pandas` `NumPy` `Seaborn`
 <br/>[View Repository →](#)
@@ -201,10 +243,10 @@ Exploratory analysis uncovering pricing patterns, rating distributions, and deli
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Prodigy Data Science Suite
-**🧪 Predictive Modeling & NLP**
+### Prodigy Data Science Suite
+**Predictive Modeling & NLP**
 
-End-to-end pipeline over 100K+ entries for sentiment classification and behavior prediction.
+End-to-end predictive modeling pipeline handling 100K+ entries for sentiment classification and customer behavior prediction.
 
 `TF-IDF` `Logistic Regression` `NLP`
 <br/>[View Repository →](#)
@@ -214,10 +256,10 @@ End-to-end pipeline over 100K+ entries for sentiment classification and behavior
 <tr>
 <td width="50%" valign="top" colspan="2" align="center">
 
-### 🌐 Personal Portfolio Platform
-**🚀 Live Web Platform**
+### Personal Portfolio Platform
+**Live Web Platform**
 
-Interactive personal portfolio with an interactive certificate gallery and dynamic dark mode.
+Interactive personal portfolio with modern aesthetics, an interactive certificate gallery, and dynamic dark mode.
 
 `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 <br/>[Visit Live Site →](https://vishv05.github.io/) &nbsp;·&nbsp; [Source Code →](#)
@@ -226,14 +268,10 @@ Interactive personal portfolio with an interactive certificate gallery and dynam
 </tr>
 </table>
 
-<div align="center">
-<sub>More experiments live in my pinned repositories — scripts, automations, and ML notebooks.</sub>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
 <!-- ============== CERTIFICATIONS ============== -->
-## 🏅 Certifications & Achievements
+## Certifications & Achievements
 
 <div align="center">
 <img src="https://img.shields.io/badge/Tata_GenAI_Powered_Data_Analytics-white?style=flat-square&logoColor=0B1F3F&labelColor=white&color=white"/>
@@ -256,7 +294,7 @@ Interactive personal portfolio with an interactive certificate gallery and dynam
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
 <!-- ============== EDUCATION ============== -->
-## 🎓 Education
+## Education
 
 <table width="100%">
 <tr>
@@ -270,15 +308,22 @@ Interactive personal portfolio with an interactive certificate gallery and dynam
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
-<!-- ============== ACTIVITY ============== -->
-## 📊 Activity Graph
+<!-- ============== GITHUB ANALYTICS ============== -->
+## GitHub Analytics
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishv05&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=0B1F3F&icon_color=C9A227&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishv05&layout=compact&hide_border=true&theme=default&title_color=0B1F3F&text_color=333333" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishv05&hide_border=true&background=ffffff&ring=C9A227&fire=C9A227&currStreakLabel=0B1F3F&sideLabels=333333&currStreakNum=0B1F3F&sideNums=333333&dates=666666" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishv05&hide_border=true&bg_color=ffffff&color=0B1F3F&line=C9A227&point=0B1F3F&area=true&area_color=C9A227" width="95%"/>
+
 </div>
 
 <details>
-<summary align="center"><b>🏆 View GitHub Trophies</b></summary>
+<summary align="center"><b>View GitHub Trophies</b></summary>
 <br/>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Vishv05&no-frame=true&column=4&margin-w=15&margin-h=15&theme=flat" />
@@ -288,20 +333,16 @@ Interactive personal portfolio with an interactive certificate gallery and dynam
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
 
 <!-- ============== CONNECT ============== -->
-## 🤝 Let's Connect
+## Contact
 
 <div align="center">
 
-Always up for a conversation about **AI/ML, data, or a project idea** — feel free to reach out.
+Open to full-time roles, internships, and collaborations in AI/ML, data engineering, and software development.
 
 <a href="https://vishv05.github.io/"><img src="https://img.shields.io/badge/Portfolio-0B1F3F?style=for-the-badge&logo=googlechrome&logoColor=C9A227" /></a>
 <a href="https://www.linkedin.com/in/vishv-bhavsar-b1507b290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.kaggle.com/vishvbhavsar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 <a href="mailto:vishvbhavsar2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>Curious about technology. Passionate about building. Always learning.</i>
 
 </div>
 
