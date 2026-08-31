@@ -14,23 +14,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=Vishv05&label=Profile%20Views&color=0B1F3F&style=flat-square" alt="profile views"/>
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:0B1F3F&height=3&width=100%"/>
-
-<!-- ============== SNAPSHOT ============== -->
-## Professional Snapshot
-
-<div align="center">
-
-| | |
-|---|---|
-| **Focus Areas** | Artificial Intelligence · Machine Learning · Data Analysis · Big Data · Full-Stack Development |
-| **Current Role** | UI/UX Designer & Front-End Developer, HRDM Global Solutions |
-| **Education** | MSc Information Technology, GLS University (2025 – 2027) |
-| **Location** | Ahmedabad, Gujarat, India |
-| **Availability** | Open to Full-Time & Internship Opportunities |
-| **Contact** | vishvbhavsar2004@gmail.com |
+<table>
+<tr><td align="right"><b>Focus Areas</b></td><td align="left">Artificial Intelligence · Machine Learning · Data Analysis · Big Data · Full-Stack Development</td></tr>
+<tr><td align="right"><b>Current Role</b></td><td align="left">UI/UX Designer & Front-End Developer, HRDM Global Solutions</td></tr>
+<tr><td align="right"><b>Education</b></td><td align="left">MSc Information Technology, GLS University (2025 – 2027)</td></tr>
+<tr><td align="right"><b>Location</b></td><td align="left">Ahmedabad, Gujarat, India</td></tr>
+<tr><td align="right"><b>Availability</b></td><td align="left">Open to Full-Time & Internship Opportunities</td></tr>
+<tr><td align="right"><b>Contact</b></td><td align="left">vishvbhavsar2004@gmail.com</td></tr>
+</table>
 
 </div>
 
